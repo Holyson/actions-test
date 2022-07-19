@@ -1,18 +1,12 @@
 package main
 
-
 import (
-
-    "fmt"
-
-
-    "github.com/holyson/actions-test/hello"
-
+	"fmt"
+	"github.com/Holyson/actions-test/hello"
 )
-
 
 func main() {
 
-    fmt.Println(hello.Greet())
+	fmt.Println(hello.Greet())
 
 }
