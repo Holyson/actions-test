@@ -6,7 +6,7 @@ import (
     "fmt"
 
 
-    "github.com/holyson/actions-test"
+    "github.com/holyson/actions-test/hello"
 
 )
 
